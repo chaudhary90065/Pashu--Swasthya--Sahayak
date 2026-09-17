@@ -1,0 +1,2 @@
+Pashu Swasthya Sahayak is a computer vision system that helps farmers detect Lumpy Skin Disease (LSD) in cattle early by analyzing uploaded photos.
+Built with YOLOv8 for object detection and deployed as a Streamlit web app, it identifies visible skin lesions, estimates severity, and provides actionable guidance — addressing the real-world problem of delayed veterinary diagnosis in rural farming communities.
